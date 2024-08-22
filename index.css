@@ -1,0 +1,15 @@
+section.love-content {
+    padding: 65px 50px 60px 52px;
+    font-size: small;
+    line-height: 1.5;
+    margin: 63px;
+}
+@media(max-width:550px) {
+     section.love-content {
+        margin: 0;
+        padding: 45px 15px 16px 21px;
+        font-size: 9px;
+        font-weight: 100;
+     }
+
+}
